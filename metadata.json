@@ -1,0 +1,6 @@
+{
+  "name": "PT DomestiQ Hub Indonesia",
+  "description": "Website resmi PT DomestiQ Hub Indonesia - Solusi rantai pasok terintegrasi, pengadaan komoditas rempah kualitas ekspor, dan fasilitas undername ekspor berbadan hukum resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
