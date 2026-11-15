@@ -891,10 +891,10 @@ export default function App() {
             <span className="inline-flex items-center gap-1.5">
               <Mail className="w-3.5 h-3.5 text-[#D95C32]" />
               <a
-                href="mailto:fakhrariefal@domestiqhub.com"
+                href="mailto:marketing@domestiqhub.com"
                 className="hover:text-white transition font-mono"
               >
-                fakhrariefal@domestiqhub.com
+                marketing@domestiqhub.com
               </a>
             </span>
           </div>
@@ -1524,10 +1524,10 @@ export default function App() {
                     <h4 className="font-bold text-white">{t.contact_email_title}</h4>
                     <p className="text-stone-400 font-mono text-xs">
                       <a
-                        href="mailto:fakhrariefal@domestiqhub.com"
+                        href="mailto:marketing@domestiqhub.com"
                         className="hover:text-[#D95C32] underline"
                       >
-                        fakhrariefal@domestiqhub.com
+                        marketing@domestiqhub.com
                       </a>
                     </p>
                   </div>
@@ -1625,12 +1625,12 @@ export default function App() {
           <div>
             <p className="font-medium text-stone-300">{t.footer_rights}</p>
             <p className="text-stone-500 mt-1 leading-relaxed">
-              SK Kemenkumham RI: AHU-A125536.AH.01.30.Tahun 2026 | KBLI 46901 & 46902 |{' '}
+              SK Kemenkumham RI: AHU-A125536.AH.01.30.Tahun 2026 {' '}
               <a
-                href="mailto:fakhrariefal@domestiqhub.com"
+                href="mailto:marketing@domestiqhub.com"
                 className="text-stone-400 hover:underline"
               >
-                fakhrariefal@domestiqhub.com
+                marketing@domestiqhub.com
               </a>
             </p>
           </div>
