@@ -1326,10 +1326,10 @@ export default function App() {
                     </td>
                     <td className="py-3.5 px-6 font-mono text-[#D95C32]">
                       <a
-                        href="mailto:fakhrariefal@domestiqhub.com"
+                        href="mailto:marketing@domestiqhub.com"
                         className="hover:underline"
                       >
-                        fakhrariefal@domestiqhub.com
+                        marketing@domestiqhub.com
                       </a>
                     </td>
                   </tr>
@@ -1579,14 +1579,14 @@ export default function App() {
                     onChange={(e) => setRfqService(e.target.value)}
                     className="w-full bg-stone-800 border border-stone-700 rounded-lg px-3.5 py-2.5 text-sm text-white focus:outline-none focus:border-[#D95C32]"
                   >
+                    <option value="Kemitraan Distribusi & Pasokan Rutin">
+                      Kemitraan Distribusi & Pasokan Rutin
+                    </option>
                     <option value="Pengadaan Rempah Kering (Ekspor/Lokal)">
                       Pengadaan Rempah Kering (Ekspor/Lokal)
                     </option>
                     <option value="Jasa Sewa Legalitas Undername Ekspor">
                       Jasa Sewa Legalitas Undername Ekspor
-                    </option>
-                    <option value="Kemitraan Distribusi & Pasokan Rutin">
-                      Kemitraan Distribusi & Pasokan Rutin
                     </option>
                     <option value="Lainnya">Lainnya / Others</option>
                   </select>
